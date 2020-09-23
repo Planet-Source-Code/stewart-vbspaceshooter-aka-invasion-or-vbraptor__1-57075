@@ -1,0 +1,20 @@
+February 20, 2004 - 9:29 AM
+============================
+
+1 - Game will no longer crash when switching windows with alt+tab
+2 - Enemies now fire when comming strait down if they can
+3 - Random Enemy Pattern code added to the level editor just to make it
+    easier to develop a level.
+4 - Level 3 completed.
+
+January 2, 2004 - 8:40PM
+============================
+
+Just finished the majority of the shop code.  As of right now four major functions
+need to be completed in order to call this game basicly complete.
+
+1 - Need to get save/load of character working
+2 - Need to workout the level system such that you can play more than one level.
+3 - Need to complete the in game menu.
+4 - Need to finish the sell portion of the shop.  That won't be to hard.
+

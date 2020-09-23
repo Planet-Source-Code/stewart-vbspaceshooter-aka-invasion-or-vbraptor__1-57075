@@ -1,0 +1,18 @@
+Invasion is the original name of a game I started working on as a little pet project over
+a year ago.  It's been very on again off again work but over this year it's progressed a lot.
+It's new name is HellFire Rising as suggested by a friend.  This is a fairly complete game,
+which has even undergone a certain degree of debugging.  In many ways it's a bit like the
+old game raptor, which I'm sure many of you have played.  You start out with a standard ship,
+then you progress through ever increasingly difficult levels, buying new weapons and upgrades
+for your ship.  Each enemy you kill gets you a certain amount of money, each level gets you
+a certain ammount of money, and picking up the green money signs gets you money.
+
+Now I'm going to be completly honest regarding the coding.  It's a bit sloppy.  I tried to 
+stick to a variable naming scheme but I know in some places they are wrong.  This more than
+anything is due to the length of time working on it, with at many times long breaks in between.
+The end result a lot of times I couldn't remember exactly what I was doing last time I worked
+on it.  But as it is I think that if your at this level of vb programming you shouldn't have
+to much trouble with the code, and you may even find the game enjoyable.
+
+Anyway leave feedback regarding the code/game. Knowing others opinions and ideas is the best
+way to improve upon something.  

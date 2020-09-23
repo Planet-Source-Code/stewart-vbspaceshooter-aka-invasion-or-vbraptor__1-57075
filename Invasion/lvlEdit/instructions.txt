@@ -1,0 +1,48 @@
++===============================================================+
+| HellFire Level Editor Instructions                            |
++===============================================================+
+|								|
+| Enemy Positioning						|
+| -----------------						|
+| This is graphical editing in nature. You can control the      |
+| number of rows there are in the game, but the number of       |
+| columns is a static 6 since that is what will fit on the game |
+| screen. Simply select an enemy of your choice by clicking on  |
+| the appropriate button, choose an AI for the enemy, and then  |
+| click on the field in the area you want the enemy to be       |
+| placed.  Please note the top of the field area in design will |
+| be the first row to come down in the game and so on. So it 	|
+| may seem a little backwards.					|
++===============================================================+
+|								|
+| Scrolling Background						|
+| --------------------						|
+| Nothing much to this. Just click the button, and choose a     |
+| bitmap for the background. The bitmap must be 640x480         |
+| so that it properly fills the screen. 			|
++===============================================================+
+|								|
+| Main Boss							|
+| ---------							|
+| The main boss is the last enemy of each stage. First choose   |
+| a bitmap for the main boss, then set it's shield, hull, how   |
+| much damage one of it's laser shots will do, how much damage  |
+| one of it's missile shots will do, the x position of it's     |
+| first laser, the x position of it's second laser, the x       |
+| position of it's first missile, and the x position of it's    |
+| second missile.						|
++===============================================================+
+|								|
+| Music								|
+| -----								|
+| Click the button and choose the music file you want. Must be  |
+| a midi file.							|
++===============================================================+
+|								|
+| Saving							|
+| ------							|
+| Click the save button and save it as a file.  Make sure the   |
+| boss bitmap and the background bitmap are in the game's       |
+| images folder, and the background music sound is in the       |
+| game's sound folder.						|
++===============================================================+

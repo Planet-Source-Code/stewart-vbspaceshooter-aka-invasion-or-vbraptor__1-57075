@@ -1,0 +1,6 @@
++------------+
++  Warning!  +
++------------+
+
+Editing saved files manually may result in coruption of data.  Please avoid manual editing
+of saved games.
